@@ -3,7 +3,7 @@ package baekjoon;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class Problem1924 {
+public class Problem1924_2007Y {
 	public static void main(String[] args) {
 		
 		// 기준점은 2007년 1월 1일 월요일

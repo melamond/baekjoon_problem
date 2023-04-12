@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Problem2587 {
+public class Problem2587_RepresentativeValues2 {
 	public static void main(String[] args) {
 		// 입력 받기 위한 스캐너 선언
 		// 필요에 따라 버퍼 등으로 변경 가능.

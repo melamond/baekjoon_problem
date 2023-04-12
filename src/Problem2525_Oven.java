@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem2525 {
+public class Problem2525_Oven {
     public static void main(String[] args) {
         //2525번 오븐 시계
 

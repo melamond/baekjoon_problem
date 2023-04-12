@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Problem10808 { // 배열 문제 / 문제 번호 10808 알파벳 개수
+public class Problem10808_Alphabet { // 배열 문제 / 문제 번호 10808 알파벳 개수
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

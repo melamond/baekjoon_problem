@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // 백준 10807번 개수 세기 (브론즈 5)
 
-public class Problem10807 {
+public class Problem10807_Counting {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

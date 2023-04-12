@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.lang.*;
 
 // 백준 10828 스택 (실버 4)
-public class Problem10828 {
+public class Problem10828_Stack {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

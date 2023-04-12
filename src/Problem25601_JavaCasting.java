@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // 25601번
-public class Problem25601 {
+public class Problem25601_JavaCasting {
     public static void main(String[] args) throws IOException {
         // 입력을 위한 BufferedReader
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

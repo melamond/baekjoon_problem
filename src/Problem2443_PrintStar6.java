@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 // 백준 2443번 별찍기 6 (브론즈 3)
 
-public class Problem2443 {
+public class Problem2443_PrintStar6 {
     public static void main(String[] args) throws IOException {
         // 입력 위한 BR 선언
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

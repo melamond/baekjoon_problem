@@ -55,7 +55,7 @@ public class Problem25601_JavaCasting {
         st = new StringTokenizer(br.readLine());
         String class1 = st.nextToken(); // 1번값
         String class2 = st.nextToken(); // 2번값
-        int result = -1; // 결과값 (상속관계면 1, 아니면 0)
+        int result = -1; // 결과값 (상속관계면 1, 아니`면 0)
         outer : for(int i = x; i >= 0; i--){ // 가로축 서칭
             for(int j = y; j >= 0; j--){ // 세로축 서칭
                 if(arr[0][0].equals(class1)) { // 1번값이 [0][0]이면 반드시 형변환 가능

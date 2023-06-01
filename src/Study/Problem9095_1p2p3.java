@@ -22,7 +22,7 @@ public class Problem9095_1p2p3 {
         }
     }
 
-    static void dp(int n, int sum){ // res = 배열 결과, n = 정수, idx = 배열 탐색 인덱스, sum = 배열의 합
+    static void dp(int n, int sum){ // n = 정수, sum = 배열의 합
         if(sum == n){ // 합이 정수에 도달하면
             cnt++;
             return;
